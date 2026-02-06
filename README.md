@@ -10,7 +10,7 @@
 ---
 Soy **Camila Bedoya**, desarrolladora Fullstack con fuerte enfoque en frontend y pasión por crear experiencias digitales intuitivas, accesibles y visualmente atractivas. Mi trabajo combina creatividad y lógica para transformar ideas en interfaces dinámicas, funcionales y centradas en el usuario.
 
-Manejo tecnologías modernas como **React**, **React Native**, **Expo**, **JavaScript**, **Node.js**, **CSS**, **Sass**, y herramientas de diseño y desarrollo como **Adobe Illustrator**, **Adobe Photoshop**, **Figma**, **MySQL Workbench**, **Postman** y **GitHub**. Aplico metodologías ágiles como **Scrum** y **Kanban**, adaptándome tanto a entornos colaborativos como a trabajo autónomo.
+Manejo tecnologías modernas como **React**, **React Native**, **Expo**, **JavaScript**, **TypeScript**, **Node.js**, **CSS**, **Sass**, y herramientas de diseño y desarrollo como **Adobe Illustrator**, **Adobe Photoshop**, **Figma**, **MySQL Workbench**, **Postman** y **GitHub**. Aplico metodologías ágiles como **Scrum** y **Kanban**, adaptándome tanto a entornos colaborativos como a trabajo autónomo.
 
 Mi experiencia previa como docente me ha dotado de empatía, escucha activa y comunicación asertiva, habilidades que potencian mi capacidad para crear soluciones tecnológicas humanas, efectivas y orientadas al usuario, así como para colaborar en equipos multidisciplinarios.
 
