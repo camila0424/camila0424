@@ -60,9 +60,6 @@ Combino sólidos conocimientos técnicos con experiencia previa en docencia, lo 
 
 ---
 
-*Construyo con propósito. Si tienes un proyecto o una vacante que valga la pena, escríbeme.*
+*Construyo con propósito. Si tienes un proyecto o una vacante que me permita crecer profesionalmente, escríbeme.*
 ```
 
-Emojis eliminados en todo el documento, incluyendo los del typing SVG — si quieres también limpiar esos, reemplaza la URL del SVG por esta:
-```
-https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6324E4&center=true&width=500&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Disponible+para+freelance+%26+remoto
