@@ -1,59 +1,68 @@
-# 👋 ¡Hola! Soy Camila
+# Camila Bedoya — Full Stack Developer
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6324E4&center=true&width=435&lines=%F0%9F%92%A1+Full+Stack+Developer+Junior+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6324E4&center=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%7C+TypeScript+%7C+Node.js;Disponible+para+freelance+%26+remoto+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
-
 ---
-Soy **Camila Bedoya**, desarrolladora Fullstack con fuerte enfoque en frontend y pasión por crear experiencias digitales intuitivas, accesibles y visualmente atractivas. Mi trabajo combina creatividad y lógica para transformar ideas en interfaces dinámicas, funcionales y centradas en el usuario.
 
-Manejo tecnologías modernas como **React**, **React Native**, **Expo**, **JavaScript**, **TypeScript**, **Node.js**, **CSS**, **Sass**, y herramientas de diseño y desarrollo como **Adobe Illustrator**, **Adobe Photoshop**, **Figma**, **MySQL Workbench**, **Postman** y **GitHub**. Aplico metodologías ágiles como **Scrum** y **Kanban**, adaptándome tanto a entornos colaborativos como a trabajo autónomo.
+Soy **Camila Bedoya**, Full Stack Developer con foco en frontend y un ojo entrenado para el diseño. Construyo productos digitales que no solo funcionan — sino que los usuarios disfrutan usar.
 
-Mi experiencia previa como docente me ha dotado de empatía, escucha activa y comunicación asertiva, habilidades que potencian mi capacidad para crear soluciones tecnológicas humanas, efectivas y orientadas al usuario, así como para colaborar en equipos multidisciplinarios.
+Combino sólidos conocimientos técnicos con experiencia previa en docencia, lo que me da una ventaja real: entiendo a las personas, comunico con claridad y colaboro de forma efectiva en equipos multidisciplinarios. El código es mi herramienta; el impacto, mi objetivo.
 
-Me motiva formar parte de equipos que valoran la innovación, el aprendizaje continuo y el trabajo colaborativo. Soy una profesional comprometida, detallista y con actitud positiva, lista para aportar valor a través del código y el diseño de experiencias memorables.
-
-
-
-### 🚀 Tech Stack y Herramientas
-
-- ⚛️ React · React Native · Expo  
-- 🟣 Vercel (hosting y despliegue)  
-- 🟨 JavaScript · Node.js  
-- 🎨 CSS · Sass  
-- 🖌️ Figma · Adobe Illustrator · Adobe Photoshop · Prezi  
-- 🗄️ MySQL Workbench (bases de datos)  
-- 🧪 Postman (testing APIs)  
-- 🔧 GitHub (control de versiones)  
-
-### 📋 Metodologías y gestión
-
-- 🚀 Metodologías ágiles: Scrum · Kanban  
-- 📅 Herramientas de gestión: Trello · Monday · Notion
-
-
-### 🛠️ Proyectos recientes
-- [Portafolio] (https://portafolio-livid-six.vercel.app/)- Aplicación tipo CV para mostrar mi experiencia y proyectos, creada con React, Tailwind CSS y Vite.
-- [Piedra-Papel-Tijera] (https://juega-piedra-papel-o-tijera.vercel.app/) - Juego creado con React y Tailwind. 
-- [🥗 Meal App (React Native)] (https://github.com/camila0424/meal-app-react-native.git) – Plataforma móvil para explorar recetas creada con React Native Expo.
-- [🛍️ Mila Music] (https://mila-music-e70tjiwnj-camila-s-projects-f41f8c26.vercel.app) – Plataforma para conectar estudiantes con docentes de música, creada con React, aún en progreso.
-
-
-### 📚 Formación
-- 👩🏻‍💻 Bootcamp de programación web – [Adalab](https://adalab.es/bootcamp-programacion/)
-- 🎞️ Curso de React Native – [Platzi](https://platzi.com)
-- 🧠 Curso de React Native – [Midulive](https://www.youtube.com/watch?v=U23lNFm_J70&t=5608s)
-
-
-### 📫 Conecta conmigo
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/camila-bedoya/)
-- 📧 milabs.esp24@gmail.com
+> **Disponible para proyectos freelance y posiciones remotas.**
 
 ---
 
+### Tech Stack
 
-*Gracias por visitar mi perfil 💜 ¡Estoy abierta a colaboraciones y nuevos retos!*
+| Frontend | Backend & DB | Herramientas |
+|---|---|---|
+| React · React Native · Expo | Node.js · MySQL | GitHub · Postman |
+| TypeScript · JavaScript | REST APIs | Figma · Adobe CC |
+| Tailwind CSS · Sass | | Vercel · Vite |
+
+**Metodologías:** Scrum · Kanban · Trello · Notion · Monday
+
+---
+
+### Proyectos destacados
+
+| Proyecto | Stack | Demo |
+|---|---|---|
+| **Portafolio personal** | React · TypeScript · Tailwind · Vite | [Ver →](https://camila-studio-portfolio.vercel.app/) |
+| **International Business Logistics** | Hostiguer · AI | [Ver →](https://iblsa.com/) |
+| **Meal App** | React Native · Expo | [Repo →](https://github.com/camila0424/meal-app-react-native.git) |
+| **Mila Music** | React | [Ver →](https://mila-music-e70tjiwnj-camila-s-projects-f41f8c26.vercel.app) |
+| **Piedra Papel Tijera** | React · Tailwind | [Jugar →](https://juega-piedra-papel-o-tijera.vercel.app/) |
+
+---
+
+### Formación
+
+- **Bootcamp Full Stack** — [Adalab](https://adalab.es/bootcamp-programacion/)
+- **React Native** — Platzi · Midulive
+
+---
+
+### Contacto
+
+<p>
+  <a href="https://www.linkedin.com/in/camila-bedoya/">
+    <img src="https://img.shields.io/badge/LinkedIn-Camila%20Bedoya-6324E4?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:milabs.esp24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-milabs.esp24%40gmail.com-6324E4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+*Construyo con propósito. Si tienes un proyecto o una vacante que valga la pena, escríbeme.*
+```
+
+Emojis eliminados en todo el documento, incluyendo los del typing SVG — si quieres también limpiar esos, reemplaza la URL del SVG por esta:
+```
+https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6324E4&center=true&width=500&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Disponible+para+freelance+%26+remoto
