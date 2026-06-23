@@ -17,6 +17,7 @@ Mi perfil combina criterio técnico sólido, sensibilidad para el diseño y expe
 ##  Co-fundadora & CTO
 
 ### [Hausseup](https://hausseup.com) — Marketplace de empleo con IA para hispanohablantes en Europa
+
 El primer marketplace bilateral de empleo diseñado para migrantes hispanohablantes en España y Europa. Nació de nuestra propia experiencia llegando a España sin red de apoyo.
 
 No es un portal tradicional ni un LinkedIn simplificado. Dos agentes de IA con memoria persistente reemplazan los formularios y filtros por conversación:
@@ -26,35 +27,53 @@ No es un portal tradicional ni un LinkedIn simplificado. Dos agentes de IA con m
 
 La interfaz combina hilo conversacional con tarjetas generativas inline — modelo referenciado en Jack and Jill AI, Digipals y Paradox/Olivia, aplicado al único mercado que ninguno está tocando todavía.
 
-`React 19` · `Vite 8` · `TypeScript` · `Tailwind CSS v4` · `Express 5` · `Neon PostgreSQL 17` · `Claude API (claude-sonnet-4-6)` · `Voyage AI` · `JWT` · `Google OAuth` · `Railway` · `Vercel`
+| Frontend | Backend | Infra & IA |
+|---|---|---|
+| React 19 · Vite 8 · TypeScript | Express 5 · TypeScript | Claude API (claude-sonnet-4-6) |
+| Tailwind CSS v4 · React Router v7 | Neon PostgreSQL 17 | Voyage AI · JWT · Google OAuth |
+| Vercel | Railway | hausseup.com |
 
 ---
 
 ### [Tekk](https://tekk.es) — Consultora de IA para PYMEs industriales del País Vasco
-Cofundada con base en Vitoria-Gasteiz, con una línea de negocio: automatización con IA para empresas industriales vascas (con acceso a subvenciones SPRI del 60%) 
+
+Con base en Vitoria-Gasteiz, automatiza procesos operacionales en empresas industriales vascas con acceso a subvenciones SPRI del 60%.
 
 Incluye un agente de diagnóstico operacional independiente que guía a la empresa por 22 preguntas en 6 módulos, genera un informe con scoring ponderado y análisis por IA, y captura leads cualificados antes de mostrar resultados.
 
-`Next.js 16` · `React 19` · `TypeScript` · `Tailwind CSS v4` · `GSAP` · `React Three Fiber` · `Framer Motion` · `next-intl` · `Claude API (claude-sonnet-4-6)` · `Formspree` · `Vercel` · `Google Analytics 4`
+| Frontend | Animación & 3 | Infra & IA |
+|---|---|---|
+| Next.js 16 · React 19 · TypeScript | GSAP · React Three Fiber | Claude API (claude-sonnet-4-6) |
+| Tailwind CSS v4 · next-intl | Framer Motion · Lenis | Formspree · Google Analytics 4 |
+| Vercel | | tekk.es |
+
 ---
 
 ##  Proyectos propios en producción
 
 ### [ICT Devocional](https://ict-devocional.vercel.app) — PWA de lecturas bíblicas diarias
-Aplicación progresiva completa con planes de lectura, racha de días, notificaciones push y autenticación. Actualmente en fase de pruebas con usuarios reales.
 
-`Next.js 15` · `TypeScript` · `Tailwind CSS v4` · `Prisma` · `Neon PostgreSQL` · `Auth.js v5` · `Zustand` · `Framer Motion` · `Web Push API` · `Vercel`
+Aplicación progresiva completa con planes de lectura, racha de días, notificaciones push y autenticación. En fase de pruebas con usuarios reales.
+
+| Frontend | Backend | Infra |
+|---|---|---|
+| Next.js 15 · TypeScript · Zustand | Prisma · Neon PostgreSQL | Vercel · Auth.js v5 |
+| Tailwind CSS v4 · Framer Motion | Web Push API · Zod · Resend | cron-job.org |
 
 ---
 
 ### [Stav Jeans](https://stav-jeans-rmc1.vercel.app) — E-commerce para cliente en producción
-Tienda online con panel de administración, autenticación dual (usuario/admin), gestión de imágenes con Cloudinary y flujo completo de pedidos.
 
-`React 19` · `TypeScript` · `Vite 8` · `Tailwind CSS v4` · `Express` · `Neon PostgreSQL` · `Cloudinary` · `JWT` · `Railway` · `Vercel`
+Tienda online con panel de administración, autenticación dual (usuario/admin), gestión de imágenes y flujo completo de pedidos.
+
+| Frontend | Backend | Infra |
+|---|---|---|
+| React 19 · Vite 8 · TypeScript | Express · Neon PostgreSQL | Vercel · Railway |
+| Tailwind CSS v4 · React Router v7 | Cloudinary · JWT | GitHub |
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 | Área | Tecnologías |
 |---|---|
@@ -66,6 +85,7 @@ Tienda online con panel de administración, autenticación dual (usuario/admin),
 | **IA** | Anthropic Claude API · Voyage AI (embeddings semánticos) |
 | **Deploy** | Vercel · Railway |
 | **Herramientas** | GitHub · Postman · Figma · Canva · VS Code · Claude Code |
+
 
 ---
 
